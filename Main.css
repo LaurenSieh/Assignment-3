@@ -1,0 +1,47 @@
+nav{ 
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: cadetblue;
+}
+brand{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+aisle{
+    font-size: 25px;
+    font-style: italic
+}
+info{
+    font-size: 20px;
+}
+sign-in{ 
+    font-size: 20px;
+}
+h1{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: mediumpurple;
+}
+h2{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: lightgoldenrodyellow;
+}
+h3{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: lavenderblush
+}
+p{
+    background-color: lightpink
+}
+div{
+    font-size: 25px;
+    background-color: lightsteelblue
+}
+footer{
+    font-size: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: cadetblue
+}
